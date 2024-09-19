@@ -1,0 +1,30 @@
+.soonContent {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.soonContent__title {
+  font-family: DIN Pro, sans-serif;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 29.78px;
+  text-align: left;
+  color: black;
+}
+.soonContent__subTitle {
+  font-family: DIN Pro, sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22.32px;
+  text-align: left;
+  color: black;
+  margin: 20px 0;
+}
+.soonContent__sadSmile {
+  width: 350px;
+  height: auto;
+}
+
+/*# sourceMappingURL=SoonContent.css.map */

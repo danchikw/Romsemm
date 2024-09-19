@@ -1,0 +1,50 @@
+.contentTop {
+  display: flex;
+  justify-content: space-between;
+}
+.contentTop__left {
+  display: flex;
+  align-items: center;
+}
+.contentTop__name {
+  font-family: DIN Pro, sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 44.64px;
+  text-align: left;
+  color: #000;
+  margin-left: 20px;
+}
+.contentTop__img {
+  width: 40px;
+  height: 40px;
+}
+.contentTop__title {
+  font-family: DIN Pro, sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 17.35px;
+  text-align: left;
+  color: #A4ACAD;
+}
+.contentTop__default {
+  font-family: DIN Pro, sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22.32px;
+  text-align: left;
+  color: black;
+  margin-top: 5px;
+}
+.contentTop__default span {
+  margin-left: 35px;
+}
+.contentTop__sort {
+  width: 198px;
+  padding: 4px 9px 10px 14px;
+  background-color: white;
+  border-radius: 15px 15px 0 0;
+  box-shadow: 0 0 18px 6px rgba(0, 0, 0, 0.0901960784);
+}
+
+/*# sourceMappingURL=ContentTop.css.map */

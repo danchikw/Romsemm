@@ -1,0 +1,1343 @@
+{
+  "pizzas": [
+    {
+      "id": 0,
+      "imageUrl": "https://arigator.ru/upload/resize_cache/iblock/025/326_245_2/0252699fc66243409611805c740b2637.jpg",
+      "name": "Пепперони Фреш с перцем",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "price": 803,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://arigator.ru/upload/resize_cache/iblock/842/1000_1000_0/842bc85885646e021c01c140941edc3b.jpg",
+      "name": "Сырная",
+      "types": [
+        0
+      ],
+      "sizes": [
+        26,
+        40
+      ],
+      "price": 245,
+      "category": 1,
+      "rating": 6
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://arigator.ru/upload/resize_cache/iblock/3ef/326_245_2/3ef5001351c09167081276bea9b98301.jpg",
+      "name": "Цыпленок барбекю",
+      "types": [
+        0
+      ],
+      "sizes": [
+        26,
+        40
+      ],
+      "price": 295,
+      "category": 1,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://arigator.ru/upload/resize_cache/iblock/f5a/326_245_2/f5aea99b5158d48f3056c857b76dfe60.jpg",
+      "name": "Пицца Гавайская",
+      "types": [
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "price": 275,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://arigator.ru/upload/resize_cache/iblock/917/326_245_2/9178e69c36c1f1448831ff4c67ea6a3c.jpg",
+      "name": "Пицца Дачная",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "price": 415,
+      "category": 3,
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://arigator.ru/upload/resize_cache/iblock/025/326_245_2/0252699fc66243409611805c740b2637.jpg",
+      "name": "Крэйзи пепперони",
+      "types": [
+        0
+      ],
+      "sizes": [
+        30,
+        40
+      ],
+      "price": 580,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://arigator.ru/upload/resize_cache/iblock/f9b/326_245_2/f9b26b691ef864c7ab992fa642582917.jpg",
+      "name": "Пепперони",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "price": 675,
+      "category": 1,
+      "rating": 9
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://arigator.ru/upload/resize_cache/iblock/267/326_245_2/26771d53c60873e31d21a02d7389f9f1.jpg",
+      "name": "Маргарита",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "price": 450,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://arigator.ru/upload/resize_cache/iblock/025/326_245_2/0252699fc66243409611805c740b2637.jpg",
+      "name": "Пицца Неаполь",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "price": 395,
+      "category": 5,
+      "rating": 10
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://arigator.ru/upload/resize_cache/iblock/108/326_245_2/10836245d2557ba2e403e221f572745f.jpg",
+      "name": "Пицца С ветчиной и грибами",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "price": 285,
+      "category": 5,
+      "rating": 7
+    }
+  ],
+  "rolls": [
+    {
+      "id": 1,
+      "name": "Дракон",
+      "imageUrl": "https://wasabi.kg/wp-content/uploads/2021/07/dragon.png",
+      "price": 300,
+      "ingredients": [
+        "Рис",
+        "Нори",
+        "Сыр",
+        "умаги"
+      ],
+      "categories": "Холодные роллы"
+    },
+    {
+      "id": 2,
+      "name": "Эби маки",
+      "imageUrl": "https://momentopizza.ru/upload/shop_4/3/6/0/item_360/item_360.jpg",
+      "price": 300,
+      "ingredients": [
+        "Рис",
+        "Нори",
+        "Сыр чеддер",
+        "умаги",
+        "Креватка в темпуре ",
+        "огурцы",
+        "сыр"
+      ],
+      "categories": "Холодные роллы"
+    },
+    {
+      "id": 3,
+      "name": "Эби чиз  ролл",
+      "imageUrl": "https://resizer.avtosushi.ru/resize?quality=90&height=500&width=720&url=https%3A%2F%2Fimages.avtosushi.ru%2Fimages%2Fstorage%2Fsource%2F1%2F6yHA1t_pAmUEYSmpfo0NEXw9VwYO7ZR2.png&sign=KwUrOh5kuo1X6y-Ehg-a_Z8Kc0Fj-o89sQsx4g-4Qe4",
+      "price": 300,
+      "ingredients": [
+        "Рис",
+        "Нори",
+        "Сыр чеддер",
+        "умаги",
+        "Креватка в темпуре ",
+        "огурцы",
+        "сыр"
+      ],
+      "categories": "Холодные роллы"
+    },
+    {
+      "id": 4,
+      "name": "Фудзяма",
+      "imageUrl": "https://freshbox.kg/uploads/products/3_FUDZIYAMA.jpg",
+      "price": 300,
+      "ingredients": [
+        "Рис",
+        "Нори",
+        "Сыр",
+        "Креватка в темпуре ",
+        "огурцы",
+        "масаго"
+      ],
+      "categories": "Холодные роллы"
+    },
+    {
+      "id": 5,
+      "name": "Ролл с огурцом",
+      "imageUrl": "https://wasabi.kg/wp-content/uploads/2021/07/roll-ogurec.png",
+      "price": 120,
+      "ingredients": [
+        "Рис",
+        "огурцы",
+        "сыр"
+      ],
+      "categories": "Холодные роллы"
+    },
+    {
+      "id": 6,
+      "name": "Ролл с омлетом",
+      "imageUrl": "https://www.yaponamatrena.ru/upload/iblock/9b0/9b0245a5b29f58572a4ab7a064b9c5c4.jpg",
+      "price": 150,
+      "ingredients": [
+        "Рис",
+        "Нори",
+        "Сыр ",
+        "Омлет"
+      ],
+      "categories": "Холодные роллы"
+    },
+    {
+      "id": 7,
+      "name": "Чипо",
+      "imageUrl": "https://menu2go.ru/images/food/200/200_343_20210816124634_2272.jpg",
+      "price": 180,
+      "ingredients": [
+        "Рис",
+        "Нори",
+        "Соус",
+        "Цезарь",
+        "Помидоры",
+        "Басай ",
+        "сыр пармезан",
+        "панко",
+        "курица"
+      ],
+      "categories": "Холодные роллы"
+    },
+    {
+      "id": 8,
+      "name": "Хару маки ",
+      "imageUrl": "https://optim.tildacdn.com/tild3362-3833-4735-b835-623139306365/-/format/webp/DSC05603-Edit-2.jpg",
+      "price": 150,
+      "ingredients": [
+        "Рис",
+        "спринг тесто",
+        "сыр ",
+        "сахарная пудра",
+        "банан",
+        "киви",
+        "сироп шоколадный"
+      ],
+      "categories": "Сладкие роллы"
+    },
+    {  "id": 9,
+      "name": "Фламинго",
+      "imageUrl": "https://fsushi.by/upload/resize_cache/iblock/676/480_372_2/uyoutkhp6t5td9cext420mgcj0nics0n.jpg?171667115792467",
+      "price": 200,
+      "ingredients": [
+        "Рис",
+        "маминори",
+        "банан",
+        "киви",
+        "сыр",
+        "сироп шоколадный",
+        "сахарная пудра"
+      ],
+      "categories": "Холодные роллы"
+    },
+    {
+      "id": 10,
+      "name": "Филадельфия",
+      "imageUrl": "https://wasabi.kg/wp-content/uploads/2021/07/filadelfija.png",
+      "price": 310,
+      "ingredients": [
+        "Рис",
+        "Нори",
+        "сыр",
+        "ласось"
+      ],
+      "categories": "Холодные роллы"
+    },
+    {
+      "id": 11,
+      "name": "Тирговый ролл",
+      "imageUrl": "https://freshroll54.ru/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2021/04/T0A0189-23-scaled.jpg.webp",
+      "price": 210,
+      "ingredients": [
+        "Рис",
+        "Нори",
+        "Креватка",
+        "ласось",
+        "сыр ",
+        "огурцы"
+      ],
+      "categories": "Холодные роллы"
+    },
+    {
+      "id": 12,
+      "name": "Рол с тунцом",
+      "imageUrl": "https://optim.tildacdn.com/tild3764-3730-4636-b461-333634336431/-/resize/460x/-/format/webp/_2022-03-29_173409.png",
+      "price": 390,
+      "ingredients": [
+        "Турец",
+        "сыр ",
+        "огурцы",
+        "Нори"
+      ],
+      "categories": "Холодные роллы"
+    },
+    {
+      "id": 13,
+      "name": "Майами",
+      "imageUrl": "https://arigato.kg/wp-content/webpc-passthru.php?src=https://arigato.kg/wp-content/uploads/2021/01/rolly-majami-bich.png&nocache=1",
+      "price": 340,
+      "ingredients": [
+        "Сыр чеддер",
+        "рис ",
+        "нори",
+        "твор",
+        "нори",
+        "угорь",
+        "огурцы"
+      ],
+      "categories": "Холодные роллы"
+    },
+    {
+      "id": 14,
+      "name": "Овара",
+      "imageUrl": "https://wasabi.kg/wp-content/uploads/2021/07/okinava.png",
+      "price": 250,
+      "ingredients": [
+        "Рис",
+        "масаго",
+        "огурцы",
+        "канжут",
+        "очишенная кожа семги",
+        "лук",
+        "майонез",
+        "стружки тунца"
+      ],
+      "categories": "Холодные роллы"
+    },
+    {
+      "id": 15,
+      "name": "Бонито",
+      "imageUrl": "https://fsushi.by/upload/resize_cache/iblock/8ae/520_400_2/sp9abya2svcve7i5kr12fy58f4gim2pw.jpg?1716801158103879",
+      "price": 230,
+      "ingredients": [
+        "Рис",
+        "нори",
+        "сыр",
+        "огурцы",
+        "копч ",
+        "ласось",
+        "стружки тунца"
+      ],
+      "categories": "Холодные роллы"
+    },
+    {
+      "id": 16,
+      "name": "Калифорния с ласосем",
+      "imageUrl": "https://momentopizza.ru/upload/shop_4/3/0/8/item_308/item_308.jpg",
+      "price": 295,
+      "ingredients": [
+        "Рис",
+        "нори",
+        "огурцы",
+        "масаго ",
+        "ласось",
+        "сыр"
+      ],
+      "categories": "Холодные роллы"
+    },
+    {
+      "id": 17,
+      "name": "Калифорния с крабом",
+      "imageUrl": "https://momentopizza.ru/upload/shop_4/1/8/9/item_189/item_189.jpg",
+      "price": 295,
+      "ingredients": [
+        "Рис",
+        "нори",
+        "огурцы",
+        "масаго ",
+        "краб",
+        "майонез"
+      ],
+      "categories": "Холодные роллы"
+    },
+    {
+      "id": 18,
+      "name": "Калифорния с ургем",
+      "imageUrl": "https://glavsushi.ru/wp-content/uploads/2019/09/kalif_ugor_corr-600x450.jpg",
+      "price": 295,
+      "ingredients": [
+        "Рис",
+        "нори",
+        "огурцы",
+        "масаго ",
+        "угорь",
+        "майонез"
+      ],
+      "categories": "Холодные роллы"
+    },
+    {
+      "id": 19,
+      "name": "Цезарь ролл",
+      "imageUrl": "https://wasabi.kg/wp-content/uploads/2021/07/cezar-280x280.png",
+      "price": 200,
+      "ingredients": [
+        "Рис",
+        "нори",
+        "цезарь соус",
+        "памидоры ",
+        "басай",
+        "сыр",
+        "пармезан",
+        "панко ",
+        "курица"
+      ],
+      "categories": "Холодные роллы"
+    },
+    {
+      "id": 20,
+      "name": "Капельки",
+      "imageUrl": "https://media.leverans.ru/CACHE/images/product_images_inactive/kazan/omega/5EoNbiXz8Rg/f7e34d33b25076057620ae5453c2e295.jpg",
+      "price": 120,
+      "ingredients": [
+        "Огурцы",
+        "ласось",
+        "рис",
+        "нари "
+      ],
+      "categories": "Холодные роллы"
+    },
+    {
+      "id": 21,
+      "name": "Инь-Янь",
+      "imageUrl": "https://sushinson.ru/assets/catalog-img/rolls/gorjachie/in_yan.jpg",
+      "price": 170,
+      "ingredients": [
+        "Нори",
+        "Огурцы",
+        "ласось",
+        "рис "
+      ],
+      "categories": "Холодные роллы"
+    },
+    {
+      "id": 22,
+      "name": "Мини чиз ролл",
+      "imageUrl": "https://wasabi.kg/wp-content/uploads/2022/09/chiz-roll.png",
+      "price": 100,
+      "ingredients": [
+        "Рис",
+        "нори",
+        "сыр",
+        "унаги ",
+        "огурцы"
+      ],
+      "categories": "Мини роллы"
+    },
+    {
+      "id": 23,
+      "name": "Спайси сяке ролл",
+      "imageUrl": "https://sushi-life.org/uploads/images/products/67572bb4b9fb71f8aa20f41ed3c46133.png",
+      "price": 149,
+      "ingredients": [
+        "Спайси",
+        "соус",
+        "огурцы",
+        "рис",
+        "ласось",
+        "нори"
+      ],
+      "categories": "Мини роллы"
+    },
+    {
+      "id": 24,
+      "name": "Унаги спайси ролл",
+      "imageUrl": "https://arigato.kg/wp-content/webpc-passthru.php?src=https://arigato.kg/wp-content/uploads/2020/12/unagi-spajsi-roll.png&nocache=1",
+      "price": 149,
+      "ingredients": [
+        "Спайси соус",
+        "огурцы",
+        "рис",
+        "угорь",
+        "нори"
+      ],
+      "categories": "Мини роллы"
+    },
+    {
+      "id": 25,
+      "name": "Сяке",
+      "imageUrl": "https://arigato.kg/wp-content/webpc-passthru.php?src=https://arigato.kg/wp-content/uploads/2020/12/syake-roll.png&nocache=1",
+      "price": 149,
+      "ingredients": [
+        "Нори",
+        "рис",
+        "ласось"
+      ],
+      "categories": "Мини роллы"
+    },
+    {
+      "id": 26,
+      "name": "Мини ролл с крабом",
+      "imageUrl": "https://i.siteapi.org/EWtjL8lTLdAMFJc2gUFXhEOpyUk=/fit-in/330x0/top/filters:format(webp)/a99ebf267115222.s.siteapi.org/img/2bfeb2c02ac4e9ea9a2273775332da107d4328bb.jpg",
+      "price": 90,
+      "ingredients": [
+        "Нори",
+        "рис",
+        "краб",
+        "майонез"
+      ],
+      "categories": "Мини роллы"
+    },
+    {
+      "id": 27,
+      "name": "Мини ролл с чукой",
+      "imageUrl": "https://sushi-mag.com/image/img.png",
+      "price": 90,
+      "ingredients": [
+        "Рис",
+        "нори",
+        "чука",
+        "кунжут"
+      ],
+      "categories": "Мини роллы"
+    },
+    {
+      "id": 28,
+      "name": "Такуан Темпура",
+      "imageUrl": "https://ajia.by/image/cache/catalog/2022/tempuralosositakuan-1200x1200.jpg",
+      "price": 180,
+      "ingredients": [
+        "Рис",
+        "нори",
+        "угорь",
+        "такуан",
+        "сыр"
+      ],
+      "categories": "Жаренные роллы"
+    },
+    {
+      "id": 29,
+      "name": "Сяке хотто",
+      "imageUrl": "https://sushi-world.ru/image/cache/data/foto-blud/goryachie/09_2-500x500.png",
+      "price": 180,
+      "ingredients": [
+        "Рис",
+        "нори",
+        "сыр",
+        "ласось",
+        "лук зеленный",
+        "панко",
+        "кляр"
+      ],
+      "categories": "Жаренные роллы"
+    },
+    {
+      "id": 30,
+      "name": "Америка",
+      "imageUrl": "https://more-roll.ru/thumb/2/IRmptUUtbG4HdpRlI4mp-w/750r750/d/amerika.jpg",
+      "price": 180,
+      "ingredients": [
+        "Рис",
+        "сыр",
+        "огурцы",
+        "нори",
+        "панко",
+        "ласось"
+      ],
+      "categories": "Жаренные роллы"
+    },
+    {
+      "id": 31,
+      "name": "Спайси харумаки",
+      "imageUrl": "https://sakura-restaurant.ru/wp-content/uploads/2022/05/harumaki.png",
+      "price": 210,
+      "ingredients": [
+        "Спринг тесто",
+        "рис",
+        "майонез",
+        "шрирачу соус",
+        "копч",
+        "семга",
+        "огурцы",
+        "панко",
+        "кляр"
+      ],
+      "categories": "Жаренные роллы"
+    },
+    {
+      "id": 32,
+      "name": "Чиз кунсей",
+      "imageUrl": "https://arigato.kg/wp-content/webpc-passthru.php?src=https://arigato.kg/wp-content/uploads/2020/12/chiz-kunsej.png&nocache=1",
+      "price": 170,
+      "ingredients": [
+        "Рис",
+        "нори",
+        "огурцы ",
+        "краб",
+        "майонез",
+        "кляр",
+        "панко"
+      ],
+      "categories": "Жаренные роллы"
+    },
+    {
+      "id": 33,
+      "name": "Унаги темпура",
+      "imageUrl": "https://mangapizza.ru/base/cache/0e4119bbf80ade432cfca726aabb1524.jpg",
+      "price": 210,
+      "ingredients": [
+        "Угорь",
+        "рис",
+        "сыр ",
+        "нори",
+        "кляр",
+        "панко"
+      ],
+      "categories": "Жаренные роллы"
+    },
+    {
+      "id": 34,
+      "name": "Темпура овещной",
+      "imageUrl": "https://media.leverans.ru/CACHE/images/product_images_inactive/kemerovo/silver-iaponiia/2751c0345f147bd44e2efc6338ded8aa/1e656f5d1bdcf67545b9074ea8161da8.jpg",
+      "price": 170,
+      "ingredients": [
+        "Рис",
+        "нори",
+        "сыр ",
+        "огурцы",
+        "перец",
+        "панко",
+        "басай"
+      ],
+      "categories": "Жаренные роллы"
+    },
+    {
+      "id": 35,
+      "name": "Конверт с ласосем",
+      "imageUrl": "https://optim.tildacdn.com/stor6234-3963-4134-a431-346634396334/-/format/webp/56338181.jpg",
+      "price": 190,
+      "ingredients": [
+        "Рис",
+        "нори",
+        "сыр ",
+        "помидоры",
+        "ласось",
+        "панко",
+        "басай",
+        "унаги соус",
+        "кляр"
+      ],
+      "categories": "Жаренные роллы"
+    },
+    {
+      "id": 36,
+      "name": "Конверт с крабом",
+      "imageUrl": "https://bigbossykt.ru/wp-content/uploads/2020/08/konvert-s-krabom-1-600x400.png",
+      "price": 120,
+      "ingredients": [
+        "Рис",
+        "нори",
+        "сыр ",
+        "помидоры",
+        "краб",
+        "панко",
+        "басай",
+        "унаги соус",
+        "кляр"
+      ],
+      "categories": "Жаренные роллы"
+    },
+    {
+      "id": 37,
+      "name": "Запеченная Филадельфия",
+      "imageUrl": "https://sushin-syn.ru/image/cache/catalog/products_19/fila_zapechennaya-1000x1000.jpg",
+      "price": 300,
+      "ingredients": [
+        "Рис",
+        "нори",
+        "сыр  ",
+        "огурцы",
+        "ласось",
+        "майонез"
+      ],
+      "categories": "Запеченные роллы"
+    },
+    {
+      "id": 38,
+      "name": "Чикен спайси",
+      "imageUrl": "https://pizzaexpress44.ru/media/cache/product_thumb/images/product/chiken-spaic.jpg",
+      "price": 240,
+      "ingredients": [
+        "Рис",
+        "нори",
+        "болг ",
+        "огурцы",
+        "перец",
+        "сыр",
+        "фирменный чикен ",
+        "спайси соус"
+      ],
+      "categories": "Запеченные роллы"
+    },
+    {
+      "id": 39,
+      "name": "Запеченный с курицей",
+      "imageUrl": "https://prostayaeda.ru/upload/resize_cache/iblock/814/ic8qvqrwji3pdsw0wxkign0dbf66yzlk/400_400_0/Roll_zapechennyy_s_kuritsey_i_bekonom_.png",
+      "price": 220,
+      "ingredients": [
+        "Рис",
+        "нори",
+        "сыр ",
+        "курица",
+        "майонез"
+      ],
+      "categories": "Запеченные роллы"
+    },
+    {
+      "id": 40,
+      "name": "Запеченный ролл с угрем",
+      "imageUrl": "https://prostayaeda.ru/upload/resize_cache/iblock/b30/2tp2lglfbnfmsok2uv7406uqcudix8ms/400_400_0/Roll_zapechenyy_s_ugrem_i_tamago.png",
+      "price": 240,
+      "ingredients": [
+        "Рис",
+        "нори",
+        "сыр ",
+        "огурец",
+        "кунжут",
+        "унаги смесь"
+      ],
+      "categories": "Запеченные роллы"
+    },
+    {
+      "id": 41,
+      "name": "Запеченный ролл с крабом",
+      "imageUrl": "https://nevafood.ru/wp-content/webp-express/webp-images/uploads/2017/07/b37b4b9467f0081f6b004757be2b9feb7ff573e6.jpg.webp",
+      "price": 280,
+      "ingredients": [
+        "Рис",
+        "нори",
+        "сыр ",
+        "огурец",
+        "масаго",
+        "канико смесь"
+      ],
+      "categories": "Запеченные роллы"
+    }
+  ],
+  "sushi": [
+    {
+      "id": 1,
+      "name":"Суши с угрем",
+      "imageUrl": "https://awokado26.ru/sites/default/files/ugor_70r_0.jpg",
+      "price": 95,
+      "ingredients": [
+        "Угорь",
+        "рис",
+        "нори"
+      ],
+      "categories": "Суши"
+    },
+    {
+      "id": 2,
+      "name": "Суши с креваткой",
+      "imageUrl": "https://магнитогорск.кушайсуши.рф/image/cache/catalog/Irkutsk/sushi/04_R_s-548x411.jpg",
+      "price": 60,
+      "ingredients": [
+        "Креватка ",
+        "рис"
+      ],
+      "categories": "Суши"
+    },
+    {
+      "id": 3,
+      "name": "Суши с ласосем",
+      "imageUrl": "https://img.povar.ru/main/07/8a/78/96/sushi_s_lososem-41523.jpeg",
+      "price": 80,
+      "ingredients": [
+        "Рис",
+        "ласось"
+      ],
+      "categories": "Суши"
+    },
+    {
+      "id": 4,
+      "name": "Суши с тунцом",
+      "imageUrl": "https://optim.tildacdn.com/tild3764-3730-4636-b461-333634336431/-/resize/460x/-/format/webp/_2022-03-29_173409.png",
+      "price": 110,
+      "ingredients": [
+        "Рис",
+        "тунец"
+      ],
+      "categories": "Суши"
+    },
+    {
+      "id": 5,
+      "name": "Гунган чикен спайси",
+      "imageUrl": "https://sushihouse-dm.ru/wp-content/uploads/2021/08/0-27-1-scaled-1-445x313.jpg",
+      "price": 40,
+      "ingredients": [
+        "Рис",
+        "нори",
+        "чикен сапйси ",
+        "огурцы"
+      ],
+      "categories": "Суши"
+    },
+    {
+      "id": 6,
+      "name": "Гунган с чукой",
+      "imageUrl": "https://сушистрит.рф/sys/data/catalog/images/image_2_260.jpg",
+      "price": 85,
+      "ingredients": [
+        "Рис",
+        "нори",
+        "чука ",
+        "ореховый соус",
+        "кунжут белый"
+      ],
+      "categories": "Суши"
+    }
+  ],
+  "drinks": [
+    {
+      "id": 1,
+      "name": "Кола 0,5л",
+      "imageUrl": "https://wasabi.kg/wp-content/uploads/2022/03/2265411_1630155383.518_original.jpg",
+      "price": 60,
+      "category": "drinks"
+    },
+    {
+      "id": 2,
+      "name": "",
+      "imageUrl": "https://wasabi.kg/wp-content/uploads/2022/03/2265411_1630155383.518_original.jpg",
+      "price": "80",
+      "category": "drinks"
+    },
+    {
+      "id": 3,
+      "name": "Компот 1л",
+      "imageUrl": "https://wasabi.kg/wp-content/uploads/2022/03/de34116f03f5526499389897e850fe0c.jpg",
+      "price": 70,
+      "category": "drinks"
+    },
+    {
+      "id": 4,
+      "name": "Спрайт 0,5л",
+      "imageUrl": "https://wasabi.kg/wp-content/uploads/2022/03/269.970.jpg",
+      "price": 60,
+      "category": "drinks"
+    },
+    {
+      "id": 5,
+      "name": "Спрайт 1л",
+      "imageUrl": "https://wasabi.kg/wp-content/uploads/2022/03/sprite-1l.jpg",
+      "price": 100,
+      "category": "drinks"
+    },
+    {
+      "id": 6,
+      "name": "Фанта 0,5л",
+      "imageUrl": "https://wasabi.kg/wp-content/uploads/2022/03/20170504.1493898493.sncpsg10.obj_.0.1.jpg.oe_.jpg.pf_.jpg.1350nowm.jpg.1350x-600x600-1.jpg",
+      "price": 60,
+      "category": "drinks"
+    },
+    {
+      "id": 7,
+      "name": "Фанта 1л",
+      "imageUrl": "https://wasabi.kg/wp-content/uploads/2022/03/media-share-0-02-05-f2e064c2eabe4f7c927b2a645a7707cb1a6f4616870881094e6be3da4b9967a6-picture.jpg",
+      "price": 100,
+      "category": "drinks"
+    }
+  ],
+  "sets": [
+    {
+      "id": 1,
+      "name": "Весна",
+      "imageUrl": "https://5samuraev.ru/image/cache/catalog/3Storm/vesna1-74x74.jpg",
+      "count": 68,
+      "combo": [
+        "Филадельфия 10шт",
+        "Хару маки 8шт",
+        "Майами 8шт",
+        "Цезарь 10шт,",
+        "Эби чиз ролл 10шт",
+        "Сяке хотто 10",
+        "Чипо 8шт"
+      ],
+      "price": 1390
+    },
+    {
+      "id": 2,
+      "name": "БигЛайт ",
+      "imageUrl":"https://5samuraev.ru/image/cache/catalog/sushistorm/8_zapechenij_mini-228x228.jpg",
+      "count": 32,
+      "combo": [
+        "Филадельфия 8шт",
+        "Ролл с омлетом - 8шт",
+        "Америка - 8шт",
+        "Мини ролл с чукой - 8шт"
+      ],
+      "price": 890
+    },
+    {
+      "id": 3,
+      "name": "Лайт",
+      "imageUrl":"https://5samuraev.ru/image/cache/catalog/3Storm/set/set-vakcina4-228x228.jpg",
+      "count": 16,
+      "combo": [
+        "Филадельфия - 4шт",
+        "Ролл с омлетом - 4шт",
+        "Америка - 4шт",
+        "Мини ролл с чукой - 4шт"
+      ],
+      "price": 570
+    },
+    {
+      "id": 4,
+      "name": "Темпура",
+      "imageUrl":"https://wasabi.kg/wp-content/uploads/2021/09/tempura-miks.png",
+      "count": 54,
+      "combo": [
+        "Америка - 10шт",
+        "Сяке Хотто - 10шт",
+        "Чиз Кунсей - 10шт",
+        "Унаги темпура - 10шт",
+        "Спайси Харумаки - 10шт",
+        "Конверты с крабом - 4шт"
+      ],
+      "price": 1190
+    },
+    {
+      "id": 5,
+      "name": "Гармония",
+      "imageUrl": "https://vsem-edu-oblako.ru/upload/store/merchant474/garmoniyaszapechenym.png?w=900&h=675",
+      "count": 30,
+      "combo": [
+        "Гункан чикен спайси 2шт",
+        "Суши с креветкой 2шт",
+        "Суши с лососем 2штт",
+        "Калифорния с крабом 8шт",
+        "Филадельфия 8шт",
+        "Майами 8шт"
+      ],
+      "price": 1250
+    },
+    {
+      "id": 6,
+      "name": "Гармония» + пицца Мясная 30см",
+      "imageUrl": "https://vsem-edu-oblako.ru/upload/store/merchant474/garmoniyaszapechenym.png?w=900&h=675",
+      "count": 30,
+      "combo": [
+        "Гункан чикен спайси 2шт",
+        "Суши с креветкой 2шт",
+        "Суши с лососем 2шт",
+        "Калифорния 8шт",
+        "Филадельфия 8шт",
+        "Майами 8шт"
+      ],
+      "price": 1610
+    },
+    {
+      "id": 7,
+      "name": "Огонёк",
+      "imageUrl": "https://wasabi.kg/wp-content/uploads/2021/09/set-9.png",
+      "count": 32,
+      "combo": [
+        "Запечённый ролл с курицей 8шт",
+        "Запеченный ролл с крабом 8шт",
+        "Запеченный ролл с угрём 8шт",
+        "Запечённая Филадельфия 8шт"
+      ],
+      "price": 1090
+    },
+    {
+      "id": 8,
+      "name": "Ассорти",
+      "imageUrl": "https://5samuraev.ru/image/cache/catalog/3Storm/assorti-228x228.jpg",
+      "count": 35,
+      "combo": [
+        "Филадельфия 4шт",
+        "Калифорния с крабом 4шт",
+        "Чипо 4шт",
+        "Ролл с омлетом 4шт",
+        "Овара 5шт",
+        "Цезарь 5шт",
+        "Америка 5шт",
+        "Запеченный ролл с курицей 4шт"
+      ],
+      "price": 950
+    },
+    {
+      "id": 9,
+      "name": "Ассорти» + пицца Мясная 30см",
+      "imageUrl": "https://5samuraev.ru/image/cache/catalog/3Storm/assorti-228x228.jpg",
+      "count": 35,
+      "combo": [
+        "Филадельфия 4шт",
+        "Калифорния с крабом 4шт",
+        "Чипо 4шт",
+        "Ролл с омлетом 4шт",
+        "Овара 5шт",
+        "Цезарь 5шт",
+        "Америка 5шт",
+        "Запеченный ролл с курицей 4шт"
+      ],
+      "price": 1290
+    },
+    {
+      "id": 10,
+      "name": "150",
+      "imageUrl": "https://wasabi.kg/wp-content/uploads/2022/09/prazdnichnyj.png",
+      "count": 150,
+      "combo": [
+        "Филадельфия 10шт",
+        "Калифорния 10шт",
+        "Запеченный ролл с курицей 8шт",
+        "Запеченный ролл с угрем 8шт",
+        "Хару Маки 10шт",
+        "Чиз ролл 10шт",
+        "Америка 10шт",
+        "Чиз кунсей 10шт",
+        "Ролл с омлетом 8шт",
+        "Чипо 10шт",
+        "Эби маки 10шт",
+        "Майами 10шт"
+      ],
+      "price": 2550
+    },
+    {
+      "id": 11,
+      "name": "Ромсем",
+      "imageUrl": "https://wasabi.kg/wp-content/uploads/2021/09/set-11.png",
+      "count": 58,
+      "combo": [
+        "Ролл с тунцом 10шт",
+        "Филадельфия 10шт",
+        "Дракон 10шт",
+        "Калифорния с лососем 10шт",
+        "Майами 10шт",
+        "Запечённая Филадельфия 8шт"
+      ],
+      "price": 2550
+    }
+  ],
+  "wok": [
+    {
+      "id": 1,
+      "name": "Рис с курицей",
+      "imageUrl": "https://arigator.ru/upload/resize_cache/iblock/f75/326_245_2/f75c7253a48d188af41754b232287254.jpg",
+      "price": 340,
+      "ingredients": [
+        "Курица",
+        "рис",
+        "яйцо",
+        "лук",
+        "морковь",
+        "паприка",
+        "цукини",
+        "фасоль",
+        "соевый соус",
+        " кунжут микс  "
+        ,"лук зеленый"
+      ],
+      "weight": 420
+    },
+    {
+      "id": 2,
+      "name": "Рис с морепродуктами",
+      "imageUrl": "https://arigator.ru/upload/resize_cache/iblock/619/326_245_2/619a2e797c5cb53f7c640cb9e85349e9.jpg",
+      "price": 480,
+      "ingredients": [
+        "Креветки",
+        "кальмар",
+        "мидии",
+        "рис",
+        "яйцо",
+        "лук",
+        "морковь",
+        "паприка",
+        "цукини",
+        "фасоль",
+      "соевый соус",
+      "кунжут микс",
+      "лук зеленый "
+      ],
+      "weight": 420
+    },
+    {
+      "id": 3,
+      "name": "Рис со свининой",
+      "imageUrl": "https://arigator.ru/upload/resize_cache/iblock/06e/326_245_2/06e77ac3f11b6e0f8d52624c09eabe91.jpg",
+      "price": 360,
+      "ingredients": [
+        "Свинина",
+        "рис",
+        "яйцо",
+        "лук",
+        "морковь",
+        "паприка",
+        "цукини",
+        "фасоль",
+        "соевый соус",
+        " кунжут микс  "
+      ,"лук зеленый"
+      ],
+      "weight": 420
+    },
+    {
+      "id": 4,
+      "name": "Рис с овощами",
+      "imageUrl": "https://arigator.ru/upload/resize_cache/iblock/f94/326_245_2/f94d72ac6733d3281410e3f086b78b44.jpg",
+      "price": 225,
+      "ingredients": [
+        "Рис",
+        "яйцо",
+        "лук",
+        "морковь",
+        "паприка",
+        "цукини",
+        "фасоль",
+        "соевый соус",
+        " кунжут микс  "
+      ,"лук зеленый"
+      ],
+      "weight": 350
+    },
+    {
+      "id": 5,
+      "name": "Фунчоза с курицей",
+      "imageUrl": "https://arigator.ru/upload/resize_cache/iblock/88e/326_245_2/88eaa93f8f479eb7f942a418c51e51d0.jpg",
+      "price": 445,
+      "ingredients": [
+        "Курица",
+        " лапша фунчоза",
+        "лук",
+        "морковь",
+        "паприка",
+        "цукини",
+        "фасоль",
+        "соус Wok",
+        " кунжут микс  "
+      ,"лук зеленый"
+      ],
+      "weight": 360
+    },
+    {
+      "id": 6,
+      "name": "Фунчоза с морепродуктами",
+      "imageUrl": "https://arigator.ru/upload/resize_cache/iblock/62f/326_245_2/62f849b22835e09b5702787624e00f83.jpg",
+      "price": 585,
+      "ingredients": [
+        "Креветки",
+        "кальмар",
+        "мидии",
+        " лапша фунчоза",
+        "лук",
+        "морковь",
+        "паприка",
+        "цукини",
+        "фасоль",
+        "соус Wok",
+        " кунжут микс  "
+      ,"лук зеленый"
+      ],
+      "weight": 360
+    },
+    {
+      "id": 7,
+      "name": "Фунчоза со свининой",
+      "imageUrl": "https://arigator.ru/upload/resize_cache/iblock/dbd/326_245_2/dbdf1bcbec8b45bf2914d804084988b1.jpg",
+      "price": 465,
+      "ingredients": [
+        "Свинина",
+        "лапша фунчоза",
+        "лук",
+        "морковь",
+        "паприка",
+        "цукини",
+        "фасоль",
+        "соус Wok",
+        " кунжут микс  "
+      ,"лук зеленый"
+      ],
+      "weight": 360
+    },
+    {
+      "id": 8,
+      "name": "Удон с курицей",
+      "imageUrl": "https://arigator.ru/upload/resize_cache/iblock/b6f/326_245_2/b6fd8c20b328ac375619a2d02849913e.jpg",
+      "price": 380,
+      "ingredients": [
+        "Курица",
+        " лапша фунчоза",
+        "лук",
+        "морковь",
+        "паприка",
+        "цукини",
+        "фасоль",
+        "соус Wok",
+        " кунжут микс  "
+      ,"лук зеленый"
+      ],
+      "weight": 360
+    },
+    {
+      "id": 9,
+      "name": "Удон с морепродуктами",
+      "imageUrl": "https://arigator.ru/upload/resize_cache/iblock/21b/326_245_2/21b6486d7967c1996d85c1ca346a3a4f.jpg",
+      "price": 565,
+      "ingredients": [
+        "Креветки",
+        "кальмар",
+        "мидии",
+        "лапша удон",
+        "лук",
+        "морковь",
+        "паприка",
+        "цукини",
+        "фасоль",
+        "соус Wok",
+        " кунжут микс  "
+      ,"лук зеленый"
+      ],
+      "weight": 360
+    },
+    {
+      "id": 10,
+      "name": "Удон со свининой",
+      "imageUrl": "https://arigator.ru/upload/resize_cache/iblock/21b/326_245_2/21b6486d7967c1996d85c1ca346a3a4f.jpg",
+      "price": 380,
+      "ingredients": [
+        "Свинина",
+        "лапша удон",
+        "лук",
+        "морковь",
+        "паприка",
+        "цукини",
+        "фасоль",
+        "соус Wok",
+        " кунжут микс  "
+      ,"лук зеленый"
+      ],
+      "weight": 360
+    },
+    {
+      "id": 11,
+      "name": "Соба с курицей",
+      "imageUrl": "https://arigator.ru/upload/resize_cache/iblock/79d/326_245_2/79d8502d50bda18ae4f307fa7be077a2.jpg",
+      "price": 385,
+      "ingredients": [
+        "Курица",
+        " лапша собан",
+        "лук",
+        "морковь",
+        "паприка",
+        "цукини",
+        "фасоль",
+        "соус устричный",
+        " кунжут микс  "
+      ,"лук зеленый"
+      ],
+      "weight": 360
+    },
+    {
+      "id": 13,
+      "name": "Соба с морепродуктами",
+      "imageUrl": "https://arigator.ru/upload/resize_cache/iblock/d27/326_245_2/d2718fab872817d628365af5a8184977.jpg",
+      "price": 565,
+      "ingredients": [
+        "Креветки",
+        "кальмар",
+        "мидии",
+        "лапша соба",
+        "лук",
+        "морковь",
+        "паприка",
+        "цукини",
+        "фасоль",
+        "соус устричный",
+        " кунжут микс  "
+      ,"лук зеленый"
+      ],
+      "weight": 360
+    },
+    {
+      "id": 14,
+      "name": "Соба со свининой",
+      "imageUrl": "https://arigator.ru/upload/resize_cache/iblock/419/326_245_2/419420d3d92da95e6c1a492075ae13ca.jpg",
+      "price":385,
+      "ingredients": [
+        "Свинина",
+        "лапша соба",
+        "лук",
+        "морковь",
+        "паприка",
+        "цукини",
+        "фасоль",
+        "соус устричный",
+        " кунжут микс  "
+      ,"лук зеленый"
+      ],
+      "weight": 360
+    }
+
+  ]
+}
