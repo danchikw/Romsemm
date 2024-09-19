@@ -17,10 +17,10 @@ import Soon from "./Soon/Soon.jsx";
 function SideBar() {
     return (
         <aside className="home__sideBar">
-            <Link to="/" className="home__sideBar__top">
+            <NavLink to="/" className="home__sideBar__top">
                 <img className="home__sideBar__logo" src={Logo} alt="Logo romsem"/>
                 <h1 className="home__sideBar__title">ROMSEM</h1>
-            </Link>
+            </NavLink>
             <ul className="home__sideBar__list">
                 <li className="home__sideBar__list-item">
                     <img className="home__sideBar__list-img" src={Pizza} alt=""/>
